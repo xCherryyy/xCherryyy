@@ -2,7 +2,7 @@
 
 - 💻 I'm front-end developer
 - 🌱 I’m currently learning React
-- 🔎 I'm looking for job
+- 🔎 I'm looking for a job
 - 📫 You can reach me here: filip.wis00@gmail.com
 
 ### Skills:
