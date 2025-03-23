@@ -1,23 +1,14 @@
-### Hi there 👋
+### Hi there! 👋  
+💻 I'm a Front-End Developer passionate about building modern and responsive web applications.  
+🚀 Currently learning **React** and improving my **TypeScript** skills.  
+🔍 Looking for **Junior Front-End Developer** roles and internships.  
 
-- 💻 I'm front-end developer
-- 🌱 I’m currently learning React
-- 🔎 I'm looking for a job
-- 📫 You can reach me here: filip.wis00@gmail.com
+### 🛠 Tech Stack:  
+✅ HTML, SCSS, JavaScript, TypeScript, Tailwind CSS  
+✅ Figma (UI/UX basics), Git, GitHub  
+✅ Currently learning: React  
 
-### Skills:
+### 💼 Commercial Projects:  
+- [Miloszowka](https://miloszowka.com)
 
-- HTML
-- SCSS
-- JavaScript
-- TypeScript
-- Figma
-
-### I'm learning:
-
-- React
-
-### 👨‍💻 My commercial projects:
-
-- miloszowka.com
-- nowaprawica-stalowawola.pl
+📫 **Contact me:** filip.wis00@gmail.com
